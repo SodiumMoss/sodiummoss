@@ -1,4 +1,4 @@
-### Hi there 👋
+Currently learning C# and working from outer space 
 
 <!--
 **SodiumMoss/sodiummoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
